@@ -28,9 +28,19 @@ yarn add vite
 
 - after that we need start tailwind to create tailwind.config.js file
 ```
-yarn tailwindcss init -p
+yarn tailwindcss init -p 
 
 ``` 
+- In tailwind.config.js file replace content: [], with content:[*],
+
+- create a style.css file and add it following things and link this file to index.html
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+
 
 # Note: using Tailwind extension is easy to implement a code.
 
