@@ -34,4 +34,4 @@ yarn tailwindcss init -p
 
 # Note: using Tailwind extension is easy to implement a code.
 
-![setup image]("https://drive.google.com/file/d/1b0O00R_TsU-LJXr4O1jpGQgFAyrAWNlR/view?usp=sharing")
+[setup image]("https://drive.google.com/file/d/1b0O00R_TsU-LJXr4O1jpGQgFAyrAWNlR/view?usp=sharing")
