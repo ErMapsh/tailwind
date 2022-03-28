@@ -34,4 +34,4 @@ yarn tailwindcss init -p
 
 # Note: using Tailwind extension is easy to implement a code.
 
-[setup image]("../../settingup.png")
+![setup image]("../../settingup.png")
