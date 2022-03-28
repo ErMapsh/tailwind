@@ -1,4 +1,8 @@
 ## in these i gonna use yarn
+# initialize a project as node project 
+```
+yarn init -y
+```
 
 # using PostCSS
 
@@ -24,7 +28,7 @@ yarn add vite
 
 - after that we need start tailwind to create tailwind.config.js file
 ```
-yarn tailwindcss init
+yarn tailwindcss init -p
 
 ``` 
 
