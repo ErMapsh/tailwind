@@ -9,7 +9,7 @@
   "dependencies": {
     "vite": "^2.8.6"
   },
-  "name": "Tutorial2",
+  "name": "tutorial2",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
