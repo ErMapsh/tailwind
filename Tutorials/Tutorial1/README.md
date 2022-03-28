@@ -29,3 +29,5 @@ yarn tailwindcss init
 ``` 
 
 # Note: using Tailwind extension is easy to implement a code.
+
+[setup image]("../../settingup.png")
