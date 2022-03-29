@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "name": "hover_focus_and_other_states",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "vite": "^2.8.6"
+  }
+}

@@ -1,0 +1,2 @@
+## Hover, Focus & Other States
+- [https://stackoverflow.com/questions/1677990/what-is-the-difference-between-focus-and-active](https://stackoverflow.com/questions/1677990/what-is-the-difference-between-focus-and-active)
