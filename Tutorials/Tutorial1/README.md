@@ -22,7 +22,8 @@ yarn add vite
 
 ```
 "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
 ```
 
